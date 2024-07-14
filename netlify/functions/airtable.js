@@ -1,4 +1,3 @@
-import 'dotenv/config'
 import fetch from "node-fetch"
 
 export const handler = async()=> {
